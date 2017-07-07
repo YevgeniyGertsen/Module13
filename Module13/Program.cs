@@ -67,6 +67,8 @@ namespace Module13
             {
                 Console.WriteLine(item);
             }
+
+            Console.WriteLine("Тест на вывод инфы и коммит в проект Евгения!");
         }
     }
 }
